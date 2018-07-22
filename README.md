@@ -3,6 +3,7 @@ Resources
 
 - Must reads/watch
   - [How To Build A Highly Successful Start-Up - Marcus Tan Of Carousell](http://www.bllnr.sg/leadership/how-to-build-a-highly-successful-start-up-marcus-tan-of-carousell)
+  - [Video: Youtube The mind behind Linux | Linus Torvalds](https://youtu.be/o8NPllzkFhE)  
 - Sites
   - [Tech in Asia - Connecting Asia's startup ecosystem](https://www.techinasia.com/)
 - References
