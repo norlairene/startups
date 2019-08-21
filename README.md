@@ -5,6 +5,7 @@ Resources
   - [How To Build A Highly Successful Start-Up - Marcus Tan Of Carousell](http://www.bllnr.sg/leadership/how-to-build-a-highly-successful-start-up-marcus-tan-of-carousell)
   - [Video: Youtube The mind behind Linux | Linus Torvalds](https://youtu.be/o8NPllzkFhE)  
   - [Video: How to Survive in GameDev for Eleven Years Without a Hit](https://youtu.be/JmwbYl6f11c)
+  - [Pitch Decks](https://www.businessinsider.com/pitch-decks-that-helped-hot-startups-raise-millions-2019-4)
 - Sites
   - [Tech in Asia - Connecting Asia's startup ecosystem](https://www.techinasia.com/)
 - References
